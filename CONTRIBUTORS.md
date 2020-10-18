@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [chinelsy] (https://github.com/chinelsy)
+-Place: Nigeria
+-Bio: Software Engineer
+-Github: [chinelsy] (https://github.com/chinelsy)
